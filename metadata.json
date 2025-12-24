@@ -1,0 +1,7 @@
+{
+  "name": "Chairs R Yours - Premium NC Event Rentals",
+  "description": "A high-end event equipment rental platform for North Carolina, featuring AI-powered event planning advice and interactive seating tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
